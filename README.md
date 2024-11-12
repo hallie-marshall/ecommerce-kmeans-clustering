@@ -38,7 +38,7 @@ The insights from this project offer a data-driven approach to customer segmenta
 
 The analysis identified six key customer segments, each with unique characteristics and engagement needs. These insights form the basis for specific recommendations aimed at driving engagement, increasing customer loyalty, and maximizing revenue.
 
-
+![Cluster Visualization](main/KMeans%20Clustering%20Segments.png)
 
 1. **RETAIN:** These customers have made relatively recent purchases, with a moderate frequency of purchase, and they have a high annual spend. They're consistent spenders with a potential for long-term loyalty.
    Recommendation: Encourage continued engagement by offering loyalty rewards.
