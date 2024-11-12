@@ -13,11 +13,17 @@ Identification of *six distinct customer groups* based on purchasing behaviors, 
 The main table used for this project consists of over 143,000 rows of order information, including:
 
 **OrderID:** unique identifier for confirmed customer orders
+
 **ProductID:** unique identifier for products purchased on confirmed customer orders
+
 **Quantity:** number of units ordered of the ProductID 
+
 **UnitPrice:** price of each unit ordered of the ProductID
+
 **InvoiceDate:** date the order is confirmed
+
 **CustomerID:** unique identifier for customers who've placed the confirmed order
+
 **Country:** country code of the customer. 
 
 ## Executive Summary
@@ -38,7 +44,9 @@ The insights from this project offer a data-driven approach to customer segmenta
 
 The analysis identified six key customer segments, each with unique characteristics and engagement needs. These insights form the basis for specific recommendations aimed at driving engagement, increasing customer loyalty, and maximizing revenue.
 
-![Cluster Visualization](main/KMeans%20Clustering%20Segments.png)
+
+![Cluster Visualization](KMeans%20Clustering%20Segments.png)
+
 
 1. **RETAIN:** These customers have made relatively recent purchases, with a moderate frequency of purchase, and they have a high annual spend. They're consistent spenders with a potential for long-term loyalty.
    Recommendation: Encourage continued engagement by offering loyalty rewards.
