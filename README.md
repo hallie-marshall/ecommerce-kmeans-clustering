@@ -1,4 +1,4 @@
-# Custer Segmentation with K-Means Clustering
+# Cluster Segmentation with K-Means Clustering
 
 ## Project Background
 
@@ -30,7 +30,7 @@ The main table used for this project consists of over 143,000 rows of order info
 
 This project provides a comprehensive analylsis of the customer base using K-Means clustering, uncovering distinct patterns in purchasing behaviors and engagement levels. By analyzing transaction data, the project reveals valuable insights into customer behavior, loyalty potential, and areas for strategic growth.
 
-The clustering analysis highlights opportunities to tailer marketing efforts, improve customer retention, and maximize revenue. Key findings indicate a wide range of customer engagement behaviors - from frequent, high-value orders to infrequency purchases at lower spend rates - each representing unique opportunities for targeted strategies.
+The clustering analysis highlights opportunities to tailor marketing efforts, improve customer retention, and maximize revenue. Key findings indicate a wide range of customer engagement behaviors - from frequent, high-value orders to infrequent purchases at lower spend rates - each representing unique opportunities for targeted strategies.
 
 This analysis provides a foundation for the retail organization to:
 - **Enhance Customer Loyalty:** Identifying characteristics of loyal customers enables the company to create targeted loyalty programs, strengthening brand power and increasing lifetime value.
@@ -52,15 +52,15 @@ The analysis identified six key customer segments, each with unique characterist
    Recommendation: Encourage continued engagement by offering loyalty rewards.
    
 2. **ENCOURAGE:** Customers in this segment have made recent purchases but at a low frequency and with a low annual spend. They may still be exploring the brand or need a nudge to purchase more regularly.
-   Recommendation: Incentivize their next purchase by offering a discount for a limited-time period.
+   Recommendation: Incentivize their next purchase by offering a discount for a limited time period.
    
 3. **EXCITE:** These customers haven't purchased recently, shop infrequently, and have a moderate annual spend. They may need a renewed reason to engage with the brand.
    Recommendation: Use urgency-based incentives, like flash sales, to prompt re-engagement.
    
 4. **UPSELL:** These customers have made recent purchases at a moderate frequency and demonstrate high annual spending. They're engaged but could be encouraged to spend more per transaction.
-   Recommendation: Suggest complementary or premium products to increase their order value. Offer add-ons or subscriptions to enhance their purchase  value and frequency.
+   Recommendation: Suggest complementary or premium products to increase their order value. Offer add-ons or subscriptions to enhance their purchase value and frequency.
    
-5. **RE-ENGAGE:** This segment consists of customers who made purchases a long time ago, with low frequency and low annual spend. They may be at risk of churn and need a reason to return.
+5. **RE-ENGAGE:** This segment consists of customers who made purchases a long time in the past, with low frequency and low annual spend. They may be at risk of churn and need a reason to return.
    Recommendation: Communicate during key events when they may be more likely to re-engage through an additional purchase.
    
 6. **REWARD:** These customers are the most engaged, with very recent and frequent purchases and the highest annual spend. They represent the brand's most valuable and loyal customers.
