@@ -38,33 +38,39 @@ This analysis provides a foundation for the retail organization to:
 - **Reduce Churn:** Understanding the traits of at-risk customer segments allows the company to proactively engage clusters with timely promotions and campaigns, mitigating churn risk.
 - **Optimize Resource Allocation:** Segmenting the customer base allows for more efficient marketing spend by focusing efforts on the highest value opportunities and tailoring strategies to specific customer needs.
 
-The insights from this project offer a data-driven approach to customer segmentation, enabling the organization to allocate resources more effectively and build stronger customer relationships. This analysis lays the groundwork for future initiatives, as highlighted in the Recommendations section below.
+The insights from this project offer a data-driven approach to customer segmentation, enabling the organization to allocate resources more effectively and build stronger customer relationships. This analysis lays the groundwork for future initiatives, as highlighted in the [Recommendations](https://github.com/hallie-marshall/retail-kmeans-clustering/edit/main/README.md#recommendations) section below.
 
 ## Insights
 
-The analysis identified six key customer segments, each with unique characteristics and engagement needs. These insights form the basis for specific recommendations aimed at driving engagement, increasing customer loyalty, and maximizing revenue.
+The analysis identified *six key customer segments*, each with unique characteristics and engagement needs. These insights form the basis for specific recommendations aimed at driving engagement, increasing customer loyalty, and maximizing revenue.
 
 
 ![Cluster Visualization](KMeans%20Clustering%20Segments.png)
 
 
 1. **RETAIN:** These customers have made relatively recent purchases, with a moderate frequency of purchase, and they have a high annual spend. They're consistent spenders with a potential for long-term loyalty.
-   Recommendation: Encourage continued engagement by offering loyalty rewards.
-   
+
+   **Recommendation:** Encourage continued engagement by offering loyalty rewards.
+ 
 2. **ENCOURAGE:** Customers in this segment have made recent purchases but at a low frequency and with a low annual spend. They may still be exploring the brand or need a nudge to purchase more regularly.
-   Recommendation: Incentivize their next purchase by offering a discount for a limited time period.
+
+    **Recommendation:** Incentivize their next purchase by offering a discount for a limited time period.
    
 3. **EXCITE:** These customers haven't purchased recently, shop infrequently, and have a moderate annual spend. They may need a renewed reason to engage with the brand.
-   Recommendation: Use urgency-based incentives, like flash sales, to prompt re-engagement.
-   
+
+    **Recommendation:** Use urgency-based incentives, like flash sales, to prompt re-engagement.
+
 4. **UPSELL:** These customers have made recent purchases at a moderate frequency and demonstrate high annual spending. They're engaged but could be encouraged to spend more per transaction.
-   Recommendation: Suggest complementary or premium products to increase their order value. Offer add-ons or subscriptions to enhance their purchase value and frequency.
+
+    **Recommendation:** Suggest complementary or premium products to increase their order value. Offer add-ons or subscriptions to enhance their purchase value and frequency.
    
 5. **RE-ENGAGE:** This segment consists of customers who made purchases a long time in the past, with low frequency and low annual spend. They may be at risk of churn and need a reason to return.
-   Recommendation: Communicate during key events when they may be more likely to re-engage through an additional purchase.
+
+    **Recommendation:** Communicate during key events when they may be more likely to re-engage through an additional purchase.
    
 6. **REWARD:** These customers are the most engaged, with very recent and frequent purchases and the highest annual spend. They represent the brand's most valuable and loyal customers.
-   Recommendation: Encourage referrals, even offering referral bonuses or rewards. Elevate their brand experience with exclusive access or events.
+  
+   **Recommendation:** Encourage referrals, even offering referral bonuses or rewards. Elevate their brand experience with exclusive access or events.
 
 These insights support a range of targeted strategies, each designed to address the unique needs of different customer segments. The recommendations based on these insights aim to improve customer experience, reduce churn, and drive long-term profitability through targeted marketing and engagement efforts.
 
