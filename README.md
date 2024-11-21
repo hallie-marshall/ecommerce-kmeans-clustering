@@ -48,27 +48,27 @@ The analysis identified *six key customer segments*, each with unique characteri
 ![Cluster Visualization](KMeans%20Clustering%20Segments.png)
 
 
-1. **RETAIN:** These customers have made relatively recent purchases, with a moderate frequency of purchase, and they have a high annual spend. They're consistent spenders with a potential for long-term loyalty.
+1. **RETAIN (28.9%):** These customers have made relatively recent purchases, with a moderate frequency of purchase, and they have a high annual spend. They're consistent spenders with a potential for long-term loyalty.
 
    **Recommendation:** Encourage continued engagement by offering loyalty rewards.
  
-2. **ENCOURAGE:** Customers in this segment have made recent purchases but at a low frequency and with a low annual spend. They may still be exploring the brand or need a nudge to purchase more regularly.
+2. **ENCOURAGE (24.3%):** Customers in this segment have made recent purchases but at a low frequency and with a low annual spend. They may still be exploring the brand or need a nudge to purchase more regularly.
 
     **Recommendation:** Incentivize their next purchase by offering a discount for a limited time period.
    
-3. **EXCITE:** These customers haven't purchased recently, shop infrequently, and have a moderate annual spend. They may need a renewed reason to engage with the brand.
+3. **EXCITE (22.9%):** These customers haven't purchased recently, shop infrequently, and have a moderate annual spend. They may need a renewed reason to engage with the brand.
 
     **Recommendation:** Use urgency-based incentives, like flash sales, to prompt re-engagement.
 
-4. **UPSELL:** These customers have made recent purchases at a moderate frequency and demonstrate high annual spending. They're engaged but could be encouraged to spend more per transaction.
+4. **UPSELL (16.7%):** These customers have made recent purchases at a moderate frequency and demonstrate high annual spending. They're engaged but could be encouraged to spend more per transaction.
 
     **Recommendation:** Suggest complementary or premium products to increase their order value. Offer add-ons or subscriptions to enhance their purchase value and frequency.
    
-5. **RE-ENGAGE:** This segment consists of customers who made purchases a long time in the past, with low frequency and low annual spend. They may be at risk of churn and need a reason to return.
+5. **RE-ENGAGE (5.8%):** This segment consists of customers who made purchases a long time in the past, with low frequency and low annual spend. They may be at risk of churn and need a reason to return.
 
     **Recommendation:** Communicate during key events when they may be more likely to re-engage through an additional purchase.
    
-6. **REWARD:** These customers are the most engaged, with very recent and frequent purchases and the highest annual spend. They represent the brand's most valuable and loyal customers.
+6. **REWARD (1.3%):** These customers are the most engaged, with very recent and frequent purchases and the highest annual spend. They represent the brand's most valuable and loyal customers.
   
    **Recommendation:** Encourage referrals, even offering referral bonuses or rewards. Elevate their brand experience with exclusive access or events.
 
@@ -76,7 +76,7 @@ These insights support a range of targeted strategies, each designed to address 
 
 ## Recommendations
 
-There are several opportunities for further utilizing these insights, optimizing strategies and enhancing operational capabilities. A few of these may include:
+There are several opportunities to further utilize these insights, optimize strategies and enhance operational capabilities. A few of these may include:
 
 - **Implement Real-Time Segmentation:** Integrate real-time segmentation to dynamically adjust marketing and communications for each customer cluster. By tailoring messages based on the latest customer behaviors, the company can improve the relevance and timeliness of its interactions, leading to stronger engagement and conversion rates.
   
