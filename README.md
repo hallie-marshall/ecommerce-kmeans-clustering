@@ -28,7 +28,7 @@ The main table used for this project consists of over 143,000 rows of order info
 
 ## Executive Summary
 
-This project provides a comprehensive analylsis of the customer base using K-Means clustering, uncovering distinct patterns in purchasing behaviors and engagement levels. By analyzing transaction data, the project reveals valuable insights into customer behavior, loyalty potential, and areas for strategic growth.
+This project provides a comprehensive analysis of the customer base using K-Means clustering, uncovering distinct patterns in purchasing behaviors and engagement levels. By analyzing transaction data, the project reveals valuable insights into customer behavior, loyalty potential, and areas for strategic growth.
 
 The clustering analysis highlights opportunities to tailor marketing efforts, improve customer retention, and maximize revenue. Key findings indicate a wide range of customer engagement behaviors - from frequent, high-value orders to infrequent purchases at lower spend rates - each representing unique opportunities for targeted strategies.
 
@@ -80,9 +80,9 @@ There are several opportunities to further utilize these insights, optimize stra
 
 - **Implement Real-Time Segmentation:** Integrate real-time segmentation to dynamically adjust marketing and communications for each customer cluster. By tailoring messages based on the latest customer behaviors, the company can improve the relevance and timeliness of its interactions, leading to stronger engagement and conversion rates.
   
-- **Build a Churn Prediction Model:** Develop a churn prediction model, particularly focused on "RE-ENGAGE" and "EXCITE" clusters. By identifying at-risk customers early, the company can proactively implement reterntion strategies, such as special offers of personalized outreach, to reduce churn and maintain revenue stability.
+- **Build a Churn Prediction Model:** Develop a churn prediction model, particularly focused on "RE-ENGAGE" and "EXCITE" clusters. By identifying at-risk customers early, the company can proactively implement retention strategies, such as special offers of personalized outreach, to reduce churn and maintain revenue stability.
   
-- **Estimate Customer Lifetime Value (CLV) by Segment:** Calculating CLV for each customer cluster can help the retailer efficiently allocate resouces to high-value customers while nurturing other segments. Understanding the long-term value of each segment allows for more strategic planning around customer acquisitions, loyalty investments, and retention strategies.
+- **Estimate Customer Lifetime Value (CLV) by Segment:** Calculating CLV for each customer cluster can help the retailer efficiently allocate resources to high-value customers while nurturing other segments. Understanding the long-term value of each segment allows for more strategic planning around customer acquisitions, loyalty investments, and retention strategies.
   
 - **Leverage A/B Testing and Multivariate Testing:** Use A/B testing or multi-variate testing to assess the performance of various marketing strategies across different segments. By gathering data on what resonates most with each cluster, the company can continuously refine its approach; optimizing content, offers, and communication channels to drive higher engagement and conversion rates.
 
